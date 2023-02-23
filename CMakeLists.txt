@@ -13,4 +13,6 @@ add_executable(2.22-1 CD13.cpp) #用一个栈实现另一个栈的排序
 add_executable(2.22-2 CD22.cpp) #用递归和栈分别求解汉诺塔问题
 add_executable(2.22-3 CD15.cpp) #生成窗口最大值数组
 
+add_executable(2.23-1 OR34.cpp) #构造MaxTree
+
 
