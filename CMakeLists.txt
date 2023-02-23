@@ -14,5 +14,6 @@ add_executable(2.22-2 CD22.cpp) #用递归和栈分别求解汉诺塔问题
 add_executable(2.22-3 CD15.cpp) #生成窗口最大值数组
 
 add_executable(2.23-1 OR34.cpp) #构造MaxTree
-
+add_executable(2.23-2 CD48.cpp) #打印两个升序链表的公共部分
+add_executable(2.23-3 CD49.cpp) #在链表中删除倒数第K个节点
 
