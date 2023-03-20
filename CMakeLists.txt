@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.24)
 project(code)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 11)
 
 add_executable(2.20-1 CD5.cpp) #设计getMin功能的栈
 add_executable(2.20-2 CD6.cpp) #由两个栈组成的队列
@@ -18,5 +18,9 @@ add_executable(2.23-2 CD48.cpp) #打印两个升序链表的公共部分
 add_executable(2.23-3 CD49.cpp) #在链表中删除倒数第K个节点
 
 add_executable(2.24-1 CD16.cpp) #求最大子矩阵的大小
+###########################################################
+add_executable(3.20-1 CD5_.cpp)	#设计getMin功能的栈
+add_executable(3.20-2 CD6_.cpp)	#由两个栈组成的队列
+add_executable(3.20-3 CD7_.cpp) #用递归函数和栈逆序一个栈
 
 
