@@ -35,4 +35,5 @@ add_executable(4.14-1 CD48__.cpp) #打印两个升序链表的公共部分
 add_executable(4.14-2 CD49__.cpp) #在链表中删除倒数第K个节点
 add_executable(4.15 CD16__.cpp) #求最大子矩阵的大小
 add_executable(4.16 CD18.cpp) #最大值减去最小值小于或等于num的子数组数
+add_executable(4.17 CD106.cpp) #删除链表的中间节点
 
