@@ -24,6 +24,7 @@ add_executable(3.20-1 CD5_.cpp)	#设计getMin功能的栈
 add_executable(3.20-3 CD7_.cpp) #用递归函数和栈逆序一个栈
 
 add_executable(4.5 CD5__.cpp) #设计getMin功能的栈
+add_executable(4.6 CD6__.cpp)	#由两个栈组成的队列
 add_executable(4.7 CD7__.cpp) #用递归函数和栈逆序一个栈
 add_executable(4.8 CD100__.cpp) #猫狗队列
 add_executable(4.9 CD13__.cpp) #用一个栈实现另一个栈的排序
@@ -36,4 +37,6 @@ add_executable(4.14-2 CD49__.cpp) #在链表中删除倒数第K个节点
 add_executable(4.15 CD16__.cpp) #求最大子矩阵的大小
 add_executable(4.16 CD18.cpp) #最大值减去最小值小于或等于num的子数组数
 add_executable(4.17 CD106.cpp) #删除链表的中间节点
+
+add_executable(4.23 CD107.cpp) #反转单向链表和双向链表
 
