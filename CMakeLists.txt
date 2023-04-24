@@ -39,4 +39,5 @@ add_executable(4.16 CD18.cpp) #最大值减去最小值小于或等于num的子�
 add_executable(4.17 CD106.cpp) #删除链表的中间节点
 
 add_executable(4.23 CD107.cpp) #反转单向链表和双向链表
+add_executable(4.24 CD108.cpp) #反转部分单向链表
 
