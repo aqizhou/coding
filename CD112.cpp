@@ -27,13 +27,13 @@ public:
 	bool IsPalindrome() {
 		Node* slow = head_->next;
 		Node* fast = head_->next;
-		while (fast != nullptr && fast->next != nullptr) {//快慢指针找到链表的中点
+		while (fast != nullptr && fast->next != nullptr) {//快慢指针找到链表的中点 分奇偶数，奇数找到的刚好是中点，偶数是中间节点后面一个节点，所以反转后右边节点大于等于左边节点的个数，所以下面while循环中是fast做判空操作，而不是slow。即左边做判空操作，而不是右边。
 			slow = slow->next;
 			fast = fast->next->next;
 		}
 		slow = Reverse(slow);
 		fast = head_->next;
-		while (slow) {
+		while (fast) {
 			if (fast->value != slow->value) {
 				return false;
 			}
