@@ -45,6 +45,7 @@ add_executable(4.26_01 CD109_.cpp) #环形链表的约瑟夫问题 另一种写�
 add_executable(4.26_02 CD110.cpp) #环形链表的约瑟夫问题 进阶
 add_executable(4.27_01 CD111.cpp) #判断一个链表是否为回文结构 全压入栈
 add_executable(4.27_02 CD111_.cpp) #判断一个链表是否为回文结构 一半压入栈
+add_executable(4.28 CD112.cpp) #判断一个链表是否为回文结构 进阶
 
 
 
