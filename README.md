@@ -2,6 +2,8 @@
  https://www.nowcoder.com/exam/oj/ta?page=1&pageSize=50&search=&tpId=101&type=101
  - OR34:
  https://www.nowcoder.com/practice/a502c7c3c65e41fdaf65eec9e0654dcb?tpId=182&tqId=34760&ru=/exam/oj
+ - JZ35:
+ https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&ru=/exam/oj
  ---
 
 
@@ -70,5 +72,21 @@ add_executable(4.23 CD107.cpp) #反转单向链表和双向链表
 add_executable(4.24 CD108.cpp) #反转部分单向链表
 
 add_executable(4.25 CD109.cpp) #环形链表的约瑟夫问题
+
+add_executable(4.26_01 CD109_.cpp) #环形链表的约瑟夫问题 另一种写法 更符合我最初的设想
+
+add_executable(4.26_02 CD110.cpp) #环形链表的约瑟夫问题 进阶
+
+add_executable(4.27_01 CD111.cpp) #判断一个链表是否为回文结构 全压入栈
+
+add_executable(4.27_02 CD111_.cpp) #判断一个链表是否为回文结构 一半压入栈
+
+add_executable(4.28 CD112.cpp) #判断一个链表是否为回文结构 进阶
+
+add_executable(4.29 CD113.cpp) #将单向链表按某值划分为左边小，中间相等，右边大的形式
+
+add_executable(4.30 CD113_.cpp) #将单向链表按某值划分为左边小，中间相等，右边大的形式 进阶
+
+add_executable(5.1 JZ35.cpp) #复制含有随机指针的链表
  
 
