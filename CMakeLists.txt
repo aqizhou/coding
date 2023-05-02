@@ -49,6 +49,7 @@ add_executable(4.28 CD112.cpp) #判断一个链表是否为回文结构 进阶
 add_executable(4.29 CD113.cpp) #将单向链表按某值划分为左边小，中间相等，右边大的形式
 add_executable(4.30 CD113_.cpp) #将单向链表按某值划分为左边小，中间相等，右边大的形式 进阶
 add_executable(5.1 JZ35.cpp) #复制含有随机指针的链表
+add_executable(5.2 JZ35_.cpp) #复制含有随机指针的链表 方法2
 
 
 
