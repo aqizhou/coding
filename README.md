@@ -89,4 +89,5 @@ add_executable(4.30 CD113_.cpp) #将单向链表按某值划分为左边小，�
 
 add_executable(5.1 JZ35.cpp) #复制含有随机指针的链表
  
+add_executable(5.2 JZ35_.cpp) #复制含有随机指针的链表 方法2
 
