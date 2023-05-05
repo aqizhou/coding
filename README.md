@@ -4,10 +4,9 @@
  https://www.nowcoder.com/practice/a502c7c3c65e41fdaf65eec9e0654dcb?tpId=182&tqId=34760&ru=/exam/oj
  - JZ35:
  https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&ru=/exam/oj
- ---
  - NC4:
  https://www.nowcoder.com/practice/650474f313294468a4ded3ce0f7898b9?tpId=196&tqId=37048&ru=/exam/oj
-
+ ---
 add_executable(2.20-1 CD5.cpp) #设计getMin功能的栈
 
 add_executable(2.20-2 CD6.cpp) #由两个栈组成的队列
