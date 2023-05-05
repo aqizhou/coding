@@ -5,7 +5,8 @@
  - JZ35:
  https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&ru=/exam/oj
  ---
-
+ - NC4:
+ https://www.nowcoder.com/practice/650474f313294468a4ded3ce0f7898b9?tpId=196&tqId=37048&ru=/exam/oj
 
 add_executable(2.20-1 CD5.cpp) #设计getMin功能的栈
 
