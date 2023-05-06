@@ -56,5 +56,7 @@ add_executable(5.4 CD114__.cpp) #两个链表生成相加链表 方法2
 add_executable(5.5_01 NC4.cpp) #判断链表中是否有环 方法1 哈希表
 add_executable(5.5_02 NC4_.cpp) #判断链表中是否有环 方法2 快慢指针
 add_executable(5.5_03 NC4__.cpp) #判断链表中是否有环,且返回进入环的头节点 快慢指针
+add_executable(5.6_01 lc_160.cpp) #判断两个无环链表是否相交 方法1 哈希表
+add_executable(5.6_02 lc_160_.cpp) #判断两个无环链表是否相交 方法2 快慢指针
 
 

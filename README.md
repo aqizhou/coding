@@ -6,6 +6,8 @@
  https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&ru=/exam/oj
  - NC4:
  https://www.nowcoder.com/practice/650474f313294468a4ded3ce0f7898b9?tpId=196&tqId=37048&ru=/exam/oj
+ - lc:
+ https://leetcode.cn/problems/intersection-of-two-linked-lists/
  ---
 add_executable(2.20-1 CD5.cpp) #设计getMin功能的栈
 
@@ -102,4 +104,8 @@ add_executable(5.5_01 NC4.cpp) #判断链表中是否有环 方法1 哈希表
 add_executable(5.5_02 NC4_.cpp) #判断链表中是否有环 方法2 快慢指针
 
 add_executable(5.5_03 NC4__.cpp) #判断链表中是否有环,且返回进入环的头节点 快慢指针
+
+add_executable(5.6_01 lc_160.cpp) #判断两个无环链表是否相交 方法1 哈希表
+
+add_executable(5.6_02 lc_160_.cpp) #判断两个无环链表是否相交 方法2 快慢指针
 
