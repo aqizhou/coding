@@ -109,3 +109,7 @@ add_executable(5.6_01 lc_160.cpp) #判断两个无环链表是否相交 方法1 
 
 add_executable(5.6_02 lc_160_.cpp) #判断两个无环链表是否相交 方法2 快慢指针
 
+add_executable(5.7_01 lc_160_plus.cpp) #判断两个有环链表是否相交 方法1 哈希表 未测试
+
+add_executable(5.7_02 lc_160_plus_.cpp) #判断两个有环链表是否相交 方法2 双指针 未测试
+
