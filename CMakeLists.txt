@@ -61,6 +61,6 @@ add_executable(5.6_02 lc_160_.cpp) #判断两个无环链表是否相交 方法2
 add_executable(5.7_01 lc_160_plus.cpp) #判断两个有环链表是否相交 方法1 哈希表 未测试
 add_executable(5.7_02 lc_160_plus_.cpp) #判断两个有环链表是否相交 方法2 双指针 未测试
 add_executable(5.8 CD119.cpp) #将单链表的每K个节点之间逆序 方法1 额外使用栈
-add_executable(5.9 CD119_.cpp) #将单链表的每K个节点之间逆序 方法2 不使用额外的栈
+add_executable(5.9 CD119_.cpp) #将单链表的每K个节点之间逆序 方法2 不使用额外的栈 多个指针
 
 
