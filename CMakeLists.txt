@@ -64,6 +64,8 @@ add_executable(5.8 CD119.cpp) #将单链表的每K个节点之间逆序 方法1 
 add_executable(5.9 CD119_.cpp) #将单链表的每K个节点之间逆序 方法2 不使用额外的栈 多个指针
 add_executable(5.10_01 CD137.cpp) #删除无序链表中值重复出现的节点 方法1 哈希表
 add_executable(5.10_02 CD137_.cpp) #删除无序链表中值重复出现的节点 方法2 类似选择排序 时间复杂度有点高 过不了
+add_executable(5.11_01 CD138.cpp) #在链表中删除指定值的节点 方法1 辅助栈
+add_executable(5.11_02 CD138_.cpp) #在链表中删除指定值的节点 方法2 双指针
 
 
 
