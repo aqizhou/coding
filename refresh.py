@@ -25,6 +25,8 @@ def get_executables(path):
                 file = (line.split()[1]).split(")")[0]
                 if file.endswith('.cpp'):
                     executables.append(file)
+                elif file.endswith('.c'):
+                    executables.append(file)
     return executables
 
 def check_source_files(path, files):
