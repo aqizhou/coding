@@ -125,5 +125,7 @@ add_executable(5.11_01 CD138.cpp) #在链表中删除指定值的节点 方法1 
 
 add_executable(5.11_02 CD138_.cpp) #在链表中删除指定值的节点 方法2 双指针
 
-add_executable(5.12 CD156.cpp) #将搜索二叉树转换成双向链表
+add_executable(5.12 CD156.cpp) #将搜索二叉树转换成双向链表 方法1 辅助队列
+
+add_executable(5.13 CD156_.cpp) #将搜索二叉树转换成双向链表 方法2 双指针
 
