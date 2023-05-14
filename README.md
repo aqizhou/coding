@@ -129,3 +129,5 @@ add_executable(5.12 CD156.cpp) #将搜索二叉树转换成双向链表 方法1 
 
 add_executable(5.13 CD156_.cpp) #将搜索二叉树转换成双向链表 方法2 双指针
 
+add_executable(5.14 CD139.cpp) #单链表的选择排序
+
