@@ -69,6 +69,8 @@ add_executable(5.11_02 CD138_.cpp) #在链表中删除指定值的节点 方法2
 add_executable(5.12 CD156.cpp) #将搜索二叉树转换成双向链表 方法1 辅助队列
 add_executable(5.13 CD156_.cpp) #将搜索二叉树转换成双向链表 方法2 双指针
 add_executable(5.14 CD139.cpp) #单链表的选择排序
+add_executable(5.15_01 CD157.cpp) #一种怪异的节点删除方式
+add_executable(5.15_02 CD158.cpp) #向有序的环形单链表中插入新节点
 
 
 
