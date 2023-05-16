@@ -135,3 +135,7 @@ add_executable(5.15_01 CD157.cpp) #一种怪异的节点删除方式
 
 add_executable(5.15_02 CD158.cpp) #向有序的环形单链表中插入新节点
 
+add_executable(5.16_01 CD159.cpp) #合并两个有序的单链表
+
+add_executable(5.16_02 CD160.cpp) #按照左右半区的方式重新组合单链表
+
