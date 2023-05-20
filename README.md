@@ -145,4 +145,24 @@ add_executable(5.18 CD161_.cpp) #实现二叉树先序，中序和后序遍历 �
 
 add_executable(5.19 CD161__.cpp) #实现二叉树先序，中序和后序遍历 非递归 统一迭代法
 
+add_executable(5.20_01 lc_102.cpp) #二叉树的层序遍历
+
+add_executable(5.20_02 lc_107.cpp) #二叉树的层序遍历II
+
+add_executable(5.20_03 lc_199.cpp) #二叉树的右视图
+
+add_executable(5.20_04 lc_637.cpp) #二叉树的层平均值
+
+add_executable(5.20_05 lc_429.cpp) #N叉树的层序遍历
+
+add_executable(5.20_06 lc_515.cpp) #在每个树行中找最大值
+
+add_executable(5.20_07 lc_116.cpp) #填充每个节点的下一个右侧节点指针
+
+add_executable(5.20_08 lc_117.cpp) #填充每个节点的下一个右侧节点指针II
+
+add_executable(5.20_09 lc_104.cpp) #二叉树的最大深度
+
+add_executable(5.20_10 lc_111.cpp) #二叉树的最小深度
+
 
