@@ -86,5 +86,9 @@ add_executable(5.20_07 lc_116.cpp) #填充每个节点的下一个右侧节点�
 add_executable(5.20_08 lc_117.cpp) #填充每个节点的下一个右侧节点指针II
 add_executable(5.20_09 lc_104.cpp) #二叉树的最大深度
 add_executable(5.20_10 lc_111.cpp) #二叉树的最小深度
+add_executable(5.21_01 lc_226.cpp) #翻转二叉树 前序遍历
+add_executable(5.21_02 lc_226_.cpp) #翻转二叉树 后序遍历
+add_executable(5.21_03 lc_617.cpp) #合并二叉树 前序遍历 递归
+add_executable(5.21_04 lc_617_.cpp) #合并二叉树 层序遍历
 
 
