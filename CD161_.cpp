@@ -52,7 +52,7 @@ public:
         _PostorderTraversal(root);
     }
 protected:
-    //ǰ��
+    //前序
     void _PreorderTraversal(ListNode* root) {
         if (root == nullptr) { return; }
         stack<ListNode*> stk;
@@ -69,7 +69,7 @@ protected:
             cout<<r<<" ";
         }
     }
-    //����
+    //中序
     void _InorderTraversal(ListNode* root) {
         if (root == nullptr) { return; }
         stack<ListNode*> stk;
@@ -91,7 +91,7 @@ protected:
             cout<<r<<" ";
         }
     }
-    //����
+    //后序
     void _PostorderTraversal(ListNode* root) { //中左右->中右左->左右中
         if (root == nullptr) { return; }
         stack<ListNode*> stk;
