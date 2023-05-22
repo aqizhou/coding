@@ -173,4 +173,16 @@ add_executable(5.21_03 lc_617.cpp) #合并二叉树 前序遍历 递归
 
 add_executable(5.21_04 lc_617_.cpp) #合并二叉树 层序遍历
 
+add_executable(5.22_01 lc_101.cpp) #对称二叉树 后序遍历 递归
+
+add_executable(5.22_02 lc_101_.cpp) #对称二叉树 后序遍历 迭代法
+
+add_executable(5.22_03 lc_100.cpp) #相同的树 后序遍历 递归
+
+add_executable(5.22_04 lc_100_.cpp) #相同的树 后序遍历 迭代法
+
+add_executable(5.22_05 lc_572.cpp) #另一个树的子树 后序遍历 递归
+
+add_executable(5.22_06 lc_572_.cpp) #另一个树的子树 后序遍历 迭代法
+
 
